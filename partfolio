@@ -1,0 +1,32 @@
+<html>
+  <head>
+    <title>Пашин Александр</title>
+    <link rel="stylesheet" href="style.css"/>
+  </head>
+  <body>
+    <header>
+      <a class="link-header" href="leonov.html">Пашин Алксандр</a>
+    </header>
+    <main>
+      <nav>
+        <a class="link-nav" href="https://sites.google.com/view/doctor-see-he/%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F-%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0"><b>моя лучшая работа</b></a>
+        <a class="link-nav" href="info.html"><b>полезная информация</b></a>
+      </nav>
+      <h1>Веб-сайт<br/> строитель</h1>
+      <p>разметка и стилизация</p>
+      <p>вёрстка сетчатых макетов</p>
+      <p>двумерные анимации и интерактивные элементы</p>
+      <p>мультимедиа на сайте</p>
+
+      <img src="https://mars.algoritmika.org/uploads/2021/04/carousel-1684591_0_1618254197.svg" width="405px" height="250px"/>
+
+      <img src="https://cdn.pixabay.com/photo/2020/04/08/16/32/keyboard-5017973_1280.jpg  " width="405px" height="250px"/>
+    </main>
+
+    <footer>
+      <a class="social" href=""><img src="https://mars.algoritmika.org/uploads/2021/04/social1_0_1618254571.png" width="100px" height="100px"/></a>
+      <a class="social" href=""><img src="https://mars.algoritmika.org/uploads/2021/04/Group%201_0_1618254571.png" width="100px" height="100px"/></a>
+      <a class="social" href=""><img src="https://mars.algoritmika.org/uploads/2021/04/social3_0_1618254571.png" width="100px" height="100px"/></a>
+    </footer>
+  </body>
+</html>
